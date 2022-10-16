@@ -1,2 +1,2 @@
 # apress-8.3
-PREDICTING CUSTOMER CHURN
+source code for Productionizing AI - Chapter 8 Section 3 Retail Solutions
